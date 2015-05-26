@@ -250,3 +250,7 @@ input:focus{
 li:hover .corner-edit{
   opacity: 1;
 }
+
+.collab-btn{
+  width: 83% !important;
+}
